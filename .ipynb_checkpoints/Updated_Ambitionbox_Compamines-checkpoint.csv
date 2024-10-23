@@ -1,0 +1,493 @@
+Company,Rating,Industry,Employees,Location,Ownership,age,Reviews,Salaries,Jobs,Interviews,Benefits
+TCS,3.7,IT Services & Consulting ,100000+,Mumbai,Public,56,81300,890000,36,9400,11800
+Wipro,3.8,IT Services & Consulting ,100000+,Bangalore,Public,79,45600,440000,676,500,5200
+HDFC Bank,3.9,Banking ,100000+,Mumbai,Public,30,36500,140000,148,200,3300
+ICICI Bank,4.0,Banking ,100000+,Mumbai,Public,30,35800,150000,3,2300,3800
+Infosys,3.8,IT Services & Consulting ,100000+,Bangalore,Public,43,35200,460000,1100,6900,5300
+HCLTech,3.6,IT Services & Consulting ,100000+,Noida,Public,33,32500,320000,194,3500,4200
+Tech Mahindra,3.6,IT Services & Consulting ,100000+,Pune,Public,38,29900,260000,483,3300,3700
+Axis Bank,3.8,Banking ,50000-100000,Mumbai,Public,31,23600,98100,81,1400,2200
+Larsen & Toubro Limited,4.0,Engineering & Construction ,50000-100000,Mumbai,Public,86,17300,69800,151,1300,2900
+Kotak Mahindra Bank,3.8,Banking ,50000-100000,Mumbai,Public,21,15200,82200,100,979,1300
+Vodafone Idea,4.1,Telecom ,5000-10000,Mumbai,Public,6,14700,56100,11,519,2100
+Reliance Industries,4.1,Oil & Gas ,100000+,Mumbai,Public,47,14600,66900,37,1200,200
+Bharti Airtel,4.0,Telecom ,10000-50000,Gurugram,Public,72,12700,45500,168,766,1600
+Tata Motors,4.2,Automobile ,10000-50000,Pune,Public,79,11100,41300,21,933,1800
+IndusInd Bank,3.6,Banking ,10000-50000,Mumbai,Public,30,9900,4900,120,543,824
+IDFC FIRST Bank,4.0,Banking ,10000-50000,Mumbai,Public,6,9300,43600,32,584,745
+Mahindra & Mahindra,4.2,Automobile ,100000+,Mumbai,Public,79,9300,37700,86,641,1300
+AU Small Finance Bank,4.4,Banking ,10000-50000,Jaipur,Fortune India 500,28,9200,20300,12,385,490
+Bajaj Finserv,4.0,Financial Services ,50000-100000,Pune,Public,17,8400,26600,26,463,761
+Mphasis,3.4,IT Services & Consulting ,10000-50000,Bangalore,Public,26,7600,68100,80,736,904
+Yes Bank,3.8,Banking ,10000-50000,Mumbai,Public,20,700,43300,75,396,638
+Maruti Suzuki,4.2,Automobile ,10000-50000,Gurgaon,Public,43,700,25400,614,559,1100
+Paytm,3.3,FinTech ,10000-50000,Noida,Public,14,6900,33100,57,696,595
+Asian Paints,4.0,Chemicals ,5000-10000,Mumbai,Public,82,6800,23200,35,599,922
+Bandhan Bank,3.8,Banking ,50000-100000,Kolkata,Public,23,6700,21900,13,481,539
+Hinduja Global Solutions,3.9,BPO ,10000-50000,Bangalore,Public,24,6700,2400,14,224,100
+Shriram Finance,4.1,NBFC ,50000-100000,Mumbai,Public,45,6600,13900,26,306,55
+Cipla,4.1,Pharma ,10000-50000,Mumbai,Public,89,6400,24500,68,454,913
+UltraTech Cement,4.2,Building Material ,10000-50000,Mumbai,Public,41,6300,21500,11,505,665
+Dr. Reddy's,4.1,Pharma ,10000-50000,Hyderabad,Public,40,6300,24300,3,362,890
+Quess,3.9,BPO ,1000-5000,Bangalore,Public,17,6200,26900,50,366,467
+Tata Steel,4.1,Iron & Steel ,100000+,Mumbai,Public,117,6100,28300,45,743,719
+Jana Small Finance Bank,3.8,Banking ,10000-50000,Bangalore,Public,18,5700,1500,49,226,635
+Zydus Lifesciences,4.2,Pharma ,10000-50000,Ahmedabad,Public,72,5700,18600,29,285,714
+Lupin,4.2,Pharma ,1000-5000,Mumbai,Public,56,5700,22700,98,323,830
+Delhivery,3.9,Logistics ,10000-50000,Delhi,Fortune India 500,13,5600,19200,93,413,681
+Hexaware Technologies,3.6,IT Services & Consulting ,10000-50000,Nashik,Fortune India 500,34,5300,48300,394,664,596
+Sun Pharmaceutical Industries,4.1,Pharma ,10000-50000,Mumbai,Public,41,5200,21400,125,357,657
+ITC,4.0,FMCG ,10000-50000,Kolkata,Public,114,5200,22500,12,518,744
+JSW Steel,4.0,Iron & Steel ,10000-50000,Mumbai,Public,42,5200,26600,64,523,641
+Hindustan Unilever,4.3,FMCG ,10000-50000,London,Public,152,5200,2000,10,329,706
+IIFL Finance,4.0,NBFC ,10000-50000,Mumbai,Public,29,500,15200,79,237,442
+Ujjivan Small Finance Bank,4.1,Banking ,10000-50000,Bangalore,Public,7,4900,11700,10,204,600
+Tata Projects,4.3,Engineering & Construction ,5000-10000,Mumbai,Public,45,4700,19900,26,375,577
+Muthoot Finance,3.6,NBFC ,10000-50000,Kochi,Public,85,4600,1200,4,237,342
+Aurobindo Pharma,4.0,Pharma ,10000-50000,Hyderabad,Public,38,4500,21800,4,219,505
+Siemens,4.1,Industrial Automation ,5000-10000,Munich,Public,177,4400,31200,2300,394,683
+Coforge,3.4,IT Services & Consulting ,10000-50000,Noida,Public,32,4300,40200,169,463,346
+Ashok Leyland,4.1,Automobile ,5000-10000,Chennai,Public,76,4300,1800,0,214,696
+Apollo Hospitals,4.1,Healthcare ,10000-50000,Chennai,Public,41,4300,15400,68,307,532
+Standard Chartered,3.8,Banking ,10000-50000,London,Fortune India 500,171,4200,4000,19,248,345
+DMart,3.9,Retail ,10000-50000,Mumbai,Fortune India 500,22,4200,15200,97,370,488
+Hero MotoCorp,4.2,Automobile ,5000-10000,Gurugram,Public,40,4200,14700,0,304,620
+Cyient,3.7,IT Services & Consulting ,10000-50000,Hyderabad,Public,33,4100,26500,56,265,500
+Equitas Small Finance Bank,4.3,Banking ,10000-50000,Chennai,Fortune India 500,17,400,11500,100,171,411
+Cholamandalam Investment & Finance,4.0,NBFC ,10000-50000,Chennai,Fortune India 500,46,3900,10900,44,154,318
+Manappuram Finance,4.0,NBFC ,10000-50000,Trichur,Public,75,3900,7800,12,134,270
+TVS Motor,4.0,Automobile ,5000-10000,Chennai,Public,45,3800,14300,12,291,558
+Kalpataru Projects International,4.2,Engineering & Construction ,1000-5000,Mumbai,Public,43,3800,12400,2,218,217
+State Bank of India,3.8,Banking ,100000+,Mumbai,Fortune India 500,218,3600,10800,0,222,419
+Bosch,4.3,Auto Components ,5000-10000,Gerlingen,Public,138,3600,20500,0,313,650
+Hyundai Motor India Limited,4.4,Automobile ,10000-50000,Seoul,Fortune India 500,57,3600,13400,13,231,590
+JBM Group,4.0,Auto Components ,1000-5000,Gurugram,Public,41,3500,13500,22,229,400
+Persistent Systems,3.6,IT Services & Consulting ,10000-50000,Pune,Public,34,3500,37500,120,546,427
+Bajaj Auto,3.9,Automobile ,5000-10000,Pune,Public,79,3400,13700,0,259,573
+KEC International,4.1,Engineering & Construction ,5000-10000,Mumbai,Public,79,3400,11800,2,274,456
+Nagarjuna Construction Company,4.2,Engineering & Construction ,5000-10000,Hyderabad,Public,26,3400,10700,11,278,433
+Aditya Birla Fashion and Retail,4.2,Fashion & Textile ,10000-50000,Mumbai,Fortune India 500,36,3300,12100,35,167,435
+Varun Beverages,4.1,Beverage ,5000-10000,Gurugram,Public,29,3200,10400,36,210,336
+Tata Communications,4.1,Telecom ,5000-10000,Mumbai,Public,38,3100,23100,282,233,446
+John Deere,4.2,Industrial Machinery ,5000-10000,Moline,Fortune India 500,23,3100,14700,0,211,440
+Intas Pharmaceuticals,4.1,Pharma ,10000-50000,Ahmedabad,Fortune India 500,47,3100,15600,20,191,425
+Deutsche Bank,4.0,Banking ,10000-50000,Frankfurt,Fortune India 500,154,3100,3200,583,334,430
+Samvardhana Motherson Group,3.8,Auto Components ,1000-5000,Noida,Public,38,300,13100,2,204,420
+Thermax Limited,4.2,Engineering & Construction ,1000-5000,Pune,Public,58,300,1200,81,216,394
+Team Lease,3.9,Recruitment ,1000-5000,Bangalore,Public,8,300,1500,4,185,228
+Havells,4.0,Electrical Equipment ,5000-10000,Noida,Public,41,300,1300,17,183,341
+Tata Capital,4.1,NBFC ,5000-10000,Mumbai,Fortune India 500,17,300,11400,433,144,113
+Godrej & Boyce Manufacturing,3.9,Consumer Electronics & Appliances ,10000-50000,Mumbai,Fortune India 500,127,300,15500,61,168,433
+Cummins,4.3,Industrial Machinery ,1000-5000,Columbus,Fortune India 500,105,2900,15100,11,221,486
+Abbott,4.2,Pharma ,10000-50000,Abbott Park,Public,136,2900,1100,207,137,393
+Pidilite Industries,4.3,Chemicals ,5000-10000,Mumbai,Public,65,2900,9900,21,189,376
+Indian Oil Corporation,4.4,Oil & Gas ,10000-50000,New Delhi,Fortune India 500,65,2900,7800,0,224,316
+Bharat Electronics,4.2,Electronics Manufacturing ,5000-10000,Bangalore,Fortune India 500,70,2800,1200,0,200,331
+DCB Bank,3.8,Banking ,5000-10000,Mumbai,Fortune India 500,94,2800,9200,69,168,255
+Alembic Pharmaceuticals,4.0,Pharma ,10000-50000,Baroda,Public,117,2800,14200,60,192,403
+Berger Paints,3.7,Chemicals ,1000-5000,Kolkata,Public,101,2800,8900,66,242,291
+Hindalco Industries,4.2,Metals & Mining ,10000-50000,,Public,66,2800,10300,21,189,355
+Bank of America,4.4,Banking ,10000-50000,,Fortune India 500,26,2700,25400,71,217,441
+Ford Motor,4.4,Automobile ,5000-10000,,Public,121,2700,14200,0,131,405
+Alkem Laboratories,3.9,Pharma ,10000-50000,,Public,51,2700,9400,16,135,350
+Jindal Steel and Power,4.0,Iron & Steel ,5000-10000,,Fortune India 500,45,2700,13700,23,280,343
+Escorts Kubota Limited,4.1,Automobile ,1000-5000,,Public,80,2700,11600,1,198,279
+Ipca Laboratories,4.0,Pharma ,10000-50000,,Public,75,2600,11300,26,144,271
+Glenmark Pharmaceuticals,4.0,Pharma ,10000-50000,,Public,47,2600,11500,95,125,334
+RBL Bank,3.7,Banking ,10000-50000,,Public,81,2600,16800,57,160,226
+Jubilant Foods Works,3.8,Hospitality ,10000-50000,,Public,29,2600,7900,42,149,192
+Aarti Industries,4.2,Agro Chemicals ,5000-10000,Vapi,Public,49,2600,13500,27,270,390
+MRF Tyres,3.7,Auto Components ,10000-50000,,Public,78,2600,11700,20,275,380
+Birlasoft,3.7,IT Services & Consulting ,10000-50000,,Public,29,2600,28800,328,269,248
+JK Cement,4.1,Building Material ,1000-5000,Nimbahera,Public,49,2500,8700,0,229,268
+Ceat Tyres,4.0,Auto Components ,5000-10000,Mumbai,Public,66,2500,1200,11,146,369
+ABB Group,4.1,Industrial Automation ,1000-5000,Zurich,Public,36,2500,15600,1,206,367
+Dabur,3.8,FMCG ,5000-10000,Ghaziabad,Public,140,2500,7800,44,199,290
+InterGlobe Aviation,3.6,Aviation ,10000-50000,Gurugram,Fortune India 500,19,2500,12600,45,347,328
+ACC,3.9,Building Material ,5000-10000,Mumbai,Public,88,2400,9700,13,174,286
+Titan Company,4.4,Retail ,5000-10000,Bangalore,Public,40,2400,8500,39,130,356
+UPL,4.2,Agriculture ,5000-10000,Mumbai,Public,55,2400,10600,34,158,329
+Shoppers Stop,4.1,Retail ,5000-10000,Mumbai,Public,33,2300,7200,3,100,331
+Torrent Pharmaceuticals,3.9,Pharma ,10000-50000,Ahmedabad,Public,53,2300,10200,27,114,339
+Grasim Industries,4.1,Building Material ,10000-50000,Nagda,Public,77,2300,10100,4,181,266
+Zensar Technologies,3.7,IT Services & Consulting ,5000-10000,Pune,Public,23,2300,26200,30,233,279
+Dilip Buildcon,4.0,Engineering & Construction ,10000-50000,Bhopal,Public,37,2300,7900,4,134,299
+Mankind Pharma,4.0,Pharma ,10000-50000,New Delhi,Fortune India 500,29,2300,8200,23,179,266
+Motilal Oswal Financial Services,3.8,Financial Services ,10000-50000,Mumbai,Public,37,2200,1000,46,187,191
+UNO Minda,4.0,Auto Components ,201-500,Gurgaon,Fortune India 500,66,2200,9300,13,146,283
+Sammaan Capital Limited,3.8,NBFC ,5000-10000,Gurugram,Public,19,2200,8400,19,96,122
+Apollo Tyres,4.1,Auto Components ,5000-10000,Gurugram,Public,52,2200,9100,19,119,350
+Nestle,4.1,FMCG ,5000-10000,Vevey,Public,65,2100,9200,34,221,337
+Max Healthcare,4.1,Healthcare ,1000-5000,New Delhi,Fortune India 500,23,2100,8500,74,107,258
+Blue Dart Express,4.1,Logistics ,10000-50000,Mumbai,Public,41,2100,6300,0,95,240
+Bajaj Electricals,4.0,Consumer Electronics & Appliances ,1000-5000,Mumbai,Public,86,2100,7900,18,115,309
+Suzlon Group,4.1,Power ,5000-10000,Pune,Public,29,2100,7400,33,116,367
+Zomato,3.7,Internet ,1000-5000,Gurgaon,Public,16,200,12600,9,290,232
+Sterlite Technologies,3.8,IT Services & Consulting ,1000-5000,Pune,Public,36,200,10700,22,155,224
+Britannia,4.1,FMCG ,1000-5000,Bengaluru,Public,132,200,7400,2,149,265
+Patanjali Ayurved,4.0,FMCG ,1000-5000,Haridwar,Fortune India 500,18,200,6400,2,99,263
+Exide Industries,3.5,Auto Components ,5000-10000,Kolkata,Public,77,200,7800,48,158,254
+Shree Cement,3.9,Building Material ,5000-10000,Kolkata,Public,45,200,900,0,143,234
+Voltas,4.1,Consumer Electronics & Appliances ,1000-5000,Mumbai,Public,70,200,800,3,110,267
+Fortis Healthcare,4.1,Healthcare ,10000-50000,Gurugram,Public,28,200,7100,69,119,149
+Dalmia Bharat Cement,4.0,Building Material ,5000-10000,New Delhi,Public,89,1900,8100,0,130,242
+Indus Towers,3.9,Telecom ,1000-5000,Gurgaon,Fortune India 500,17,1900,7700,40,157,215
+Blue Star,4.0,Consumer Electronics & Appliances ,1000-5000,Mumbai,Public,81,1900,8900,16,135,256
+Ajanta Pharma,4.0,Pharma ,5000-10000,Mumbai,Public,51,1900,8500,20,104,224
+Lifestyle,4.4,Retail ,10000-50000,Bangalore,Fortune India 500,25,1900,6800,2,60,291
+suzuki motor gujarat,4.3,Automobile ,1000-5000,Becharaji,Fortune India 500,8,1800,700,18,157,204
+Info Edge,4.0,Internet ,5000-10000,Noida,Public,29,1800,10700,285,287,316
+Kansai Nerolac Paints,3.9,Chemicals ,1000-5000,Mumbai,Public,104,1800,6900,0,136,200
+Emcure Pharmaceuticals,3.7,Pharma ,5000-10000,Pune,Fortune India 500,43,1800,8100,54,98,249
+Life Insurance Corporation of India,4.4,Insurance ,50000-100000,Mumbai,Fortune India 500,68,1800,4300,2,72,251
+Jindal Stainless,4.2,Iron & Steel ,5000-10000,New Delhi,Public,54,1800,9100,74,160,213
+GlaxoSmithKline Pharmaceuticals,4.2,Pharma ,1000-5000,Brentford,Fortune India 500,194,1700,5300,38,98,127
+Adani Power,3.9,Power ,1000-5000,Ahmedabad,Public,18,1700,8100,0,193,176
+Whirlpool,4.1,Consumer Electronics & Appliances ,1000-5000,Michigan,Public,113,1700,7800,0,83,214
+Sobha,3.9,Real Estate ,1000-5000,Bangalore,Public,29,1700,7900,27,108,221
+Raymond Lifestyle Limited,4.1,Fashion & Textile ,5000-10000,Mumbai,Public,99,1700,6900,5,85,245
+Bharat Petroleum,4.2,Oil & Gas ,5000-10000,Mumbai,Fortune India 500,72,1700,6500,1,144,197
+BHEL,4.2,Electrical Equipment ,10000-50000,Bangalore,Fortune India 500,60,1700,500,0,102,227
+Ambuja Cements,3.9,Building Material ,5000-10000,Mumbai,Public,41,1700,600,0,100,217
+Star Health & Allied Insurance,3.8,Insurance ,10000-50000,Chennai,Fortune India 500,18,1600,7700,15,92,173
+Endurance Technologies,3.9,Auto Components ,1000-5000,Aurangabad,Public,39,1600,7300,5,87,248
+Kalyan Jewellers,4.7,Jewellery ,5000-10000,Kerala,Fortune India 500,31,1600,1300,27,48,62
+Force Motors,3.6,Automobile ,1000-5000,Pune,Public,66,1600,7800,1,111,176
+Lodha Group,4.1,Real Estate ,5000-10000,Mumbai,Fortune India 500,44,1600,7900,65,112,204
+Varroc Group,3.8,Auto Components ,1000-5000,Aurangabad,Public,36,1600,6400,227,123,157
+Bank of Baroda,3.6,Banking ,50000-100000,Baroda,Fortune India 500,116,1600,6300,0,95,158
+Brakes India,4.0,Auto Components ,501-1000,Chennai,Fortune India 500,62,1600,6700,9,66,210
+Coromandel International,4.1,Agro Chemicals ,5000-10000,Hyderabad,Public,63,1600,6900,2,89,232
+Laurus Labs,4.2,Pharma ,5000-10000,Hyderabad,Public,19,1600,6700,2,99,229
+Adani Wilmar,4.2,FMCG ,1000-5000,Ahmedabad,Public,25,1500,6200,1,95,180
+JK Tyres,3.7,Auto Components ,1000-5000,Rajasthan,Fortune India 500,73,1500,6500,1,86,198
+Citibank,4.0,Banking ,10000-50000,New York City,Fortune India 500,212,1500,15900,0,178,216
+IDBI Bank,3.6,Banking ,10000-50000,Mumbai,Public,60,1500,5900,0,62,142
+Hindustan Aeronautics,4.4,Defence & Aerospace ,10000-50000,Bangalore,Fortune India 500,84,1500,4100,0,68,180
+Tata Teleservices,4.0,Telecom ,201-500,Mumbai,Public,28,1500,4200,0,30,264
+Aditya Birla Capital,4.0,Financial Services ,10000-50000,Mumbai,Public,7,1500,800,4,137,165
+Spark Minda,3.9,Auto Components ,1000-5000,Noida,Public,66,1500,600,5,105,45
+Uflex,3.8,Packaging ,5000-10000,Noida,Public,39,1500,6500,20,97,128
+TVS Sundram Fasteners,3.8,Auto Components ,1000-5000,Chennai,Public,62,1400,6600,0,58,216
+Narayana Health,4.2,Healthcare ,10000-50000,Bangalore,Fortune India 500,24,1400,5500,36,53,148
+Honeywell Automation,3.8,Consumer Electronics & Appliances ,10000-50000,Pune,Public,118,1400,1100,0,96,177
+G R Infraprojects,4.2,Engineering & Construction ,10000-50000,Gurugram,Public,29,1400,5100,33,123,170
+Honda Cars,4.4,Automobile ,5000-10000,Alwar,Fortune India 500,29,1400,6300,0,84,202
+Nuvoco Vistas,4.2,Building Material ,1000-5000,Mumbai,Fortune India 500,10,1400,600,6,87,137
+Torrent Power,3.8,Power ,5000-10000,Ahmedabad,Public,28,1400,6900,27,114,167
+Daikin,4.2,Consumer Electronics & Appliances ,1000-5000,Mumbai,Fortune India 500,24,1400,6300,1,127,151
+Tata Power,4.0,Power ,10000-50000,Mumbai,Public,109,1300,7100,5,151,150
+PI Industries,4.1,Agro Chemicals ,1000-5000,Gurugram,Public,77,1300,6400,12,95,180
+NTPC,4.2,Power ,10000-50000,New Delhi,Fortune India 500,49,1300,3800,0,150,188
+USV,4.1,Pharma ,1000-5000,Mumbai,Fortune India 500,63,1300,5200,12,70,184
+Wockhardt,3.9,Pharma ,5000-10000,Mumbai,Public,25,1300,4400,2,48,185
+Procter & Gamble,4.2,FMCG ,1000-5000,Cincinnati,Public,187,1300,5700,14,106,177
+Jindal Saw,4.0,Building Material ,5000-10000,New Delhi,Public,40,1300,5800,2,94,199
+Yamaha Motor,4.1,Automobile ,1000-5000,Iwata,Fortune India 500,69,1300,5500,14,57,191
+DIVI'S Laboratories,3.8,Healthcare ,10000-50000,Hyderabad,Public,34,1300,6200,0,68,182
+Arvind Group,4.1,Fashion & Textile ,10000-50000,Ahmedabad,Public,93,1300,5300,40,58,301
+V-Guard Industries,4.3,Consumer Electronics & Appliances ,1000-5000,Kochi,Public,47,1300,3800,10,50,273
+Isgec Heavy Engineering,3.9,Industrial Machinery ,1000-5000,Noida,Public,91,1300,6500,26,103,145
+Trent,4.1,Retail ,10000-50000,Mumbai,Public,26,1300,400,4,70,136
+Trident Group,3.3,Fashion & Textile ,10000-50000,Ludhiana,Public,34,1300,5200,8,89,134
+Polycab Wires,4.1,Electrical Equipment ,1000-5000,Mumbai,Fortune India 500,28,1200,6100,50,84,95
+Relaxo Footwear,4.2,Fashion & Textile ,5000-10000,Delhi,Public,40,1200,4200,33,74,150
+Vardhman Fabrics,4.1,Fashion & Textile ,10000-50000,Ludhiana,Fortune India 500,59,1200,5100,6,57,156
+Emami,4.0,FMCG ,1000-5000,Kolkata,Public,50,1200,4900,6,80,136
+Security and Intelligence Services (India),4.2,Law Enforcement & Security ,100000+,New Delhi,Public,39,1200,4100,21,49,144
+CG Power and Industrial Solutions,3.9,Electrical Equipment ,1000-5000,Mumbai,Public,87,1200,6100,5,70,227
+Marico,4.1,FMCG ,1000-5000,Mumbai,Public,36,1200,5200,11,77,168
+Toyota Kirloskar Motor,4.4,Automobile ,5000-10000,Bangalore,Fortune India 500,27,1200,3900,0,45,174
+Welspun,4.1,Fashion & Textile ,10000-50000,Mumbai,Fortune India 500,39,1200,4700,2,62,157
+Oracle Financial Services Software,3.6,IT Services & Consulting ,10000-50000,Mumbai,Public,34,1100,12200,0,151,199
+AkzoNobel,4.2,Chemicals ,1000-5000,Amsterdam,Public,85,1100,400,13,55,141
+Piramal Group,4.0,Pharma ,10000-50000,Mumbai,Fortune India 500,44,1100,4600,48,59,193
+IFB,3.7,Consumer Electronics & Appliances ,201-500,Kolkata,Public,50,1100,4900,0,85,68
+Granules India,3.9,Pharma ,1000-5000,Hyderabad,Public,40,1100,5500,3,61,174
+Gland Pharma,3.7,Pharma ,1000-5000,Hyderabad,Fortune India 500,46,1100,5900,0,70,138
+Supreme Industries,4.2,Petrochemicals ,5000-10000,Mumbai,Public,82,1100,500,0,63,122
+J. Kumar Infraprojects,4.1,Engineering & Construction ,5000-10000,Mumbai,Public,44,1100,4500,0,63,125
+Nayara Energy,4.2,Petrochemicals ,1000-5000,Mumbai,Fortune India 500,35,1100,5600,0,77,179
+Sanofi,4.3,Pharma ,1000-5000,Paris,Public,20,1100,4200,152,66,156
+Canara Bank,3.4,Banking ,50000-100000,Bangalore,Public,118,1100,3700,0,52,99
+Ashoka Buildcon,4.1,Engineering & Construction ,1000-5000,Nashik,Public,48,1100,400,11,61,130
+ITD Cementation India,4.3,Engineering & Construction ,1000-5000,Mumbai,Public,93,1100,3900,1,58,144
+Gujarat Fluorochemicals,4.0,Chemicals ,1000-5000,Noida,Fortune India 500,37,1100,5700,2,75,156
+Asahi India Glass,3.9,Auto Components ,1000-5000,Gurugram,Public,40,1100,4700,13,69,143
+Hindustan Construction Company,4.2,Engineering & Construction ,1000-5000,Mumbai,Public,98,1100,3500,0,73,164
+Bharat Forge,3.8,Iron & Steel ,1000-5000,Pune,Public,63,1100,5800,0,51,124
+CIE Automotive,3.7,Auto Components ,1000-5000,Pune,Public,25,100,4600,43,70,14
+Godrej Properties,3.7,Real Estate ,1000-5000,Mumbai,Public,34,100,6400,19,78,114
+Adani Ports and SEZ,3.9,Ports & Shipping ,1000-5000,Ahmedabad,Public,26,100,3900,0,54,144
+Edelweiss,3.8,Financial Services ,1000-5000,Mumbai,Public,7,100,7300,6,56,133
+Amara Raja Energy & Mobility,4.2,Auto Components ,5000-10000,Tirupati,Fortune India 500,39,100,3600,15,60,122
+Dixon Technologies,4.1,Electronics Manufacturing ,1000-5000,Noida,Public,31,994,4900,6,96,124
+Punjab National Bank,4.0,Banking ,100000+,New Delhi,Fortune India 500,130,977,2800,0,35,98
+Oil And Natural Gas Corporation,4.3,Oil & Gas ,10000-50000,New Delhi,Public,68,976,3400,0,68,147
+DCM Shriram,4.3,Chemicals ,5000-10000,New Delhi,Public,34,966,4400,8,77,133
+SKF,4.0,Auto Components ,1000-5000,Gothenburg,Public,101,961,4300,16,59,162
+Atul,3.9,Chemicals ,1000-5000,Valsad,Public,77,959,4800,3,74,122
+The Jaypee Group,3.9,Engineering & Construction ,10000-50000,Noida,Public,45,958,3500,0,38,116
+DISH TV,3.5,Broadcasting ,201-500,Noida,Public,21,954,3400,10,52,103
+PNB Housing Finance,3.8,Financial Services ,1000-5000,New Delhi,Public,36,949,400,15,41,92
+Sonata Software,3.5,IT Services & Consulting ,1000-5000,Bangalore,Public,38,935,10800,33,102,89
+Hatsun Agro Product,4.0,Food Processing ,5000-10000,Chennai,Public,54,900,4300,7,59,110
+GAIL,4.5,Oil & Gas ,1000-5000,New Delhi,Fortune India 500,40,899,3200,0,75,93
+Godrej Consumer Products,4.2,FMCG ,1000-5000,Mumbai,Public,23,892,4400,0,40,129
+Nykaa,3.5,Internet ,1000-5000,Mumbai,Public,12,885,5400,1,103,63
+Kirloskar Oil Engines,4.2,Industrial Machinery ,1000-5000,Pune,Public,78,872,3700,2,45,108
+Karur Vysya Bank,3.7,Banking ,5000-10000,Karur,Public,108,869,3700,31,60,62
+MedPlus,3.6,Pharma ,501-1000,Hyderabad,Fortune India 500,18,869,3400,18,71,62
+PNC Infratech,3.9,Engineering & Construction ,5000-10000,New Delhi,Public,25,868,3300,5,53,81
+The Ramco Cements,4.2,Building Material ,1000-5000,Chennai,Public,63,859,3500,0,49,101
+JK Lakshmi Cement,3.9,Building Material ,1000-5000,New Delhi,Public,42,858,3400,1,54,101
+H.G. Infra Engineering,4.3,Engineering & Construction ,1000-5000,Jaipur,Public,21,849,2600,6,68,94
+Strides Pharma,3.9,Pharma ,201-500,Bangalore,Public,34,845,400,3,55,150
+Power Grid Corporation of India,4.3,Power ,5000-10000,Gurugram,Fortune India 500,35,841,200,0,61,82
+CenturyPly,3.9,Furniture & Furnishing ,1000-5000,Kolkata,Public,38,834,3700,1,59,58
+Mando Automotive,3.9,Auto Components ,1000-5000,Kanchipuram,Fortune India 500,18,821,4600,0,46,129
+Jubilant Pharmova,3.9,Pharma ,1000-5000,Noida,Public,46,808,3800,29,56,117
+Sundaram Finance,4.2,NBFC ,1000-5000,Chennai,Public,70,804,3100,0,29,89
+Kirloskar Brothers,4.0,Industrial Machinery ,1000-5000,Pune,Public,136,799,4100,5,61,105
+Tube Investments of India,4.0,Engineering & Construction ,1000-5000,Chennai,Public,75,795,3100,8,41,60
+Adani Green Energy,4.2,Power ,1000-5000,Ahmedabad,Fortune India 500,9,788,4200,8,81,82
+Nilkamal,3.9,Furniture & Furnishing ,1000-5000,Mumbai,Public,43,781,3200,8,48,88
+Digit Insurance,3.9,Insurance ,1000-5000,Bangalore,Fortune India 500,8,779,3900,20,76,105
+Colgate Palmolive,4.2,FMCG ,1000-5000,New York City,Public,87,779,3900,0,66,123
+Birla Corporation,4.2,Building Material ,5000-10000,Kolkata,Public,105,775,3400,0,52,87
+Sundaram Clayton,4.1,Auto Components ,1000-5000,Chennai,Public,62,764,300,0,27,104
+SHYAM METALICS AND ENERGY,3.6,Iron & Steel ,1000-5000,Kolkata,Fortune India 500,29,759,3300,1,81,50
+HFCL,4.1,Hardware & Networking ,1000-5000,New Delhi,Public,37,756,3500,0,53,91
+Tata Consumer Products,3.8,FMCG ,1000-5000,Mumbai,Public,62,752,3900,9,55,68
+Astral Pipe,4.1,Building Material ,1-10,Ahmedabad,Fortune India 500,26,752,3100,20,56,37
+City Union Bank,3.3,Banking ,5000-10000,Thanjavur,Public,120,749,4600,7,69,61
+Federal Bank,3.8,Banking ,10000-50000,Aluva,Public,93,740,4500,0,119,74
+Schaeffler India,4.2,Auto Components ,1000-5000,Mumbai,Public,78,735,4400,0,46,116
+DLF,4.0,Real Estate ,1000-5000,Gurugram,Public,78,733,3800,1,69,74
+Nirma,4.3,FMCG ,10000-50000,Ahmedabad,Fortune India 500,34,730,3100,0,38,126
+Tata Chemicals,4.1,Chemicals ,1000-5000,Mumbai,Public,85,726,2800,13,55,142
+Wheels,4.1,Auto Components ,1000-5000,Chennai,Public,62,720,4800,0,52,85
+Lakshmi Machine Works,4.0,Industrial Machinery ,1000-5000,Coimbatore,Public,62,720,3900,2,48,70
+CNH Industrial,4.0,Automobile ,1000-5000,London,Public,11,719,3600,10,50,92
+Bank of India,3.9,Banking ,50000-100000,Mumbai,Fortune India 500,118,714,2700,0,44,93
+Biocon Biologics,3.6,Biotechnology ,1000-5000,Bangalore,Public,46,709,5600,0,85,363
+Reliance Power,4.2,Power ,1000-5000,Mumbai,Public,29,708,3300,3,41,70
+Page Industries,4.2,Fashion & Textile ,10000-50000,Bangalore,Public,30,705,3300,1,38,83
+Vedanta Resources,3.8,Metals & Mining ,1000-5000,London,Public,48,696,5100,0,90,101
+NBC Bearings,3.9,Auto Components ,1000-5000,Jaipur,Public,78,689,300,4,73,50
+KEI Industries,4.2,Electrical Equipment ,1000-5000,New Delhi,Public,56,684,3100,0,51,90
+Godfrey Phillips India,4.1,FMCG ,501-1000,New Delhi,Public,91,683,300,0,29,109
+Prism Johnson,3.9,Building Material ,1000-5000,Mumbai,Public,32,682,3800,0,44,67
+Bayer,4.1,Pharma ,10000-50000,Leverkusen,Public,161,680,400,0,43,134
+Alok Industries,3.8,Fashion & Textile ,10000-50000,,Public,38,677,300,0,36,85
+United Breweries,3.8,Beverage ,1000-5000,,Public,167,676,3200,1,34,98
+HSBC Bank,4.1,Banking ,10000-50000,Mumbai,Fortune India 500,155,666,4100,0,38,26
+Deepak Fertilisers and Petrochemicals,3.9,Chemicals ,501-1000,,Public,45,627,3100,8,33,86
+Union Bank of India,4.0,Banking ,50000-100000,,Public,105,622,2700,0,31,72
+Tata Hitachi Construction Machinery,4.0,Industrial Machinery ,1000-5000,,Fortune India 500,25,614,2800,0,50,86
+Wonder Cement,4.2,Building Material ,1000-5000,,Fortune India 500,14,614,3200,34,47,60
+Adani Enterprises,3.8,"Power, Ports & Shipping, Agro Chemicals, Real Estate",10000-50000,,Public,36,614,3700,8,68,86
+Balkrishna Industries,4.0,Auto Components ,1000-5000,,Public,37,612,3100,0,43,54
+Carborundum Universal,4.0,Metals & Mining ,1000-5000,Hosur,Public,70,599,300,0,29,64
+Engineers India,4.3,Engineering & Construction ,1000-5000,,Public,59,598,3200,6,69,81
+India Cements,3.8,Building Material ,1000-5000,Chennai,Public,78,579,2500,0,45,63
+Finolex Cables,3.9,Electrical Equipment ,1000-5000,Pune,Public,68,579,2500,13,37,48
+HIL,4.2,Building Material ,1000-5000,,Public,78,578,2300,5,47,71
+Hitachi Energy,4.1,Power ,1000-5000,Vadodara,Fortune India 500,5,576,4800,282,74,69
+VA Tech Wabag,3.9,Waste Management ,501-1000,,Public,100,563,2800,0,43,89
+JK Paper,4.0,Pulp & Paper ,1000-5000,Rayagada,Public,62,557,2600,15,46,77
+Redington,4.0,Hardware & Networking ,1000-5000,Chennai,Public,25,555,3100,0,30,69
+Apar Industries,4.1,Electrical Equipment ,1000-5000,,Public,66,546,300,3,36,49
+Zee Entertainment Enterprises,3.5,Media & Entertainment ,1000-5000,Mumbai,Public,32,544,4200,2,44,51
+Deepak Nitrite,4.0,Chemicals ,1000-5000,Baroda,Public,54,539,300,14,43,74
+Steel Authority Of India,4.1,Iron & Steel ,10000-50000,New Delhi,Public,70,534,2200,0,35,61
+BASF,4.5,Chemicals ,1000-5000,Ludwigshafen,Fortune India 500,81,525,2400,0,29,74
+Jain Irrigation Systems,4.1,Agriculture ,5000-10000,Jalgaon,Public,61,520,2200,0,19,53
+Sterlite Power,3.9,Power ,1000-5000,New Delhi,Fortune India 500,14,520,2900,16,22,71
+EPL Limited,3.9,Packaging ,1000-5000,Mumbai,Public,40,509,1800,0,19,74
+TTK Prestige,3.9,Consumer Electronics & Appliances ,1000-5000,Bangalore,Public,69,507,2200,3,34,50
+Electrotherm,4.2,Iron & Steel ,1000-5000,Ahmedabad,Public,41,500,2800,0,28,60
+Coal India,4.0,Metals & Mining ,100000+,Kolkata,Public,49,498,1900,0,56,76
+Jai Balaji Group,3.6,Iron & Steel ,1000-5000,Kolkata,Public,25,498,2700,1,33,70
+Orient Cement,4.3,Building Material ,1000-5000,Hyderabad,Public,45,498,2400,2,37,83
+Gayatri Projects,3.9,Engineering & Construction ,1000-5000,Hyderabad,Public,61,497,2200,0,36,80
+Patel Engineering,4.2,Engineering & Construction ,1000-5000,Mumbai,Public,75,495,2100,1,30,57
+3M,4.2,Electronics Manufacturing ,1000-5000,Maplewood,Public,37,492,300,44,26,66
+United Spirits,4.0,Beverage ,1000-5000,Bangalore,Public,27,490,1800,0,11,73
+Surya Roshni,4.2,Real Estate ,1000-5000,New Delhi,Public,51,489,2100,0,14,56
+JM Financial,3.8,Financial Services ,1000-5000,Mumbai,Public,40,487,3400,6,38,34
+Triveni Engineering & Industries,4.2,Food Processing ,1000-5000,Mysore/Mysuru,Public,92,483,2200,0,30,62
+Amber Enterprises India,3.9,Consumer Electronics & Appliances ,1000-5000,Mumbai,Public,34,469,2500,7,36,44
+BEML,4.1,Industrial Machinery ,5000-10000,Bangalore,Fortune India 500,60,468,1700,0,21,62
+Škoda Auto Volkswagen,4.2,Automobile ,5000-10000,Pune,Fortune India 500,23,468,3100,3,21,49
+PCBL Limited,3.9,Petrochemicals ,1000-5000,Kolkata,Public,64,464,2400,5,53,53
+Sadbhav Engineering,4.4,Engineering & Construction ,1000-5000,Ahmedabad,Public,36,457,1700,0,10,69
+Welspun Corp,4.1,Iron & Steel ,5000-10000,Mumbai,Fortune India 500,39,453,1900,0,25,44
+Godrej Industries,4.2,Chemicals ,1000-5000,Mumbai,Public,61,452,2600,100,46,69
+Eicher Motors,4.2,Automobile ,5000-10000,Gurgaon,Public,42,431,1600,0,30,45
+Central Bank of India,3.9,Banking ,10000-50000,Mumbai,Public,113,429,1200,0,28,37
+Kajaria Ceramics,4.2,Building Material ,1000-5000,New Delhi,Public,39,428,1800,0,17,51
+Transport Corporation Of India,4.1,Logistics ,1000-5000,Gurgaon,Public,66,416,1800,0,23,62
+South Indian Bank,3.5,Banking ,1000-5000,Trichur,Public,95,416,2600,0,67,37
+NLC India Limited,4.5,Metals & Mining ,10000-50000,Chennai,Fortune India 500,68,415,1100,0,21,27
+Jindal Poly Films,3.6,Packaging ,1000-5000,New Delhi,Public,50,414,2400,0,33,53
+Radico Khaitan,3.9,Beverage ,1000-5000,New Delhi,Public,81,411,1800,0,20,36
+IRB Infrastructure,4.1,Engineering & Construction ,5000-10000,Mumbai,Public,26,404,1300,0,17,59
+Castrol,4.2,Petrochemicals ,501-1000,Pangbourne,Public,125,400,1800,0,19,51
+LIC Housing Finance,4.1,NBFC ,1000-5000,Mumbai,Public,35,396,1600,0,16,35
+Electrosteel Casting,3.9,Building Material ,1000-5000,Kolkata,Public,69,396,200,0,38,43
+Aster Dm Healthcare,3.8,Healthcare ,1000-5000,Dubai,Public,37,396,2300,35,35,36
+GHCL Limited,4.0,Chemicals ,501-1000,Noida,Public,41,385,1500,1,25,58
+Galaxy Surfactants,3.8,Chemicals ,1000-5000,Mumbai,Public,44,381,1700,2,21,66
+National Stock Exchange of India,3.6,Financial Services ,1000-5000,Mumbai,Fortune India 500,32,378,3600,3,44,40
+Reliance Infrastructure,4.1,Engineering & Construction ,1000-5000,Mumbai,Public,95,377,2100,0,23,63
+Reliance Capital,3.8,Financial Services ,1000-5000,Mumbai,Public,19,377,2200,3,18,77
+Maharashtra Seamless,3.6,Building Material ,1000-5000,Gurugram,Public,36,375,1900,0,37,42
+Allcargo Logistics,3.9,Logistics ,501-1000,Mumbai,Public,31,374,200,1,22,46
+Schwing Stetter,4.0,Industrial Machinery ,1000-5000,Chennai,Fortune India 500,26,372,200,42,26,51
+Finolex Industries,3.9,Building Material ,1000-5000,Pune,Fortune India 500,41,371,1800,3,29,25
+Jubilant Ingrevia,3.8,Chemicals ,201-500,Noida,Fortune India 500,4,370,2100,0,32,21
+Usha Martin,4.2,Iron & Steel ,1000-5000,Kolkata,Public,63,369,1400,0,17,56
+Mahanagar Gas,4.2,Oil & Gas ,501-1000,Mumbai,Public,29,362,2200,2,27,48
+Venky's,3.8,FMCG ,5000-10000,Pune,Public,48,359,1500,0,16,31
+Chemplast Sanmar,3.7,Chemicals ,501-1000,Chennai,Fortune India 500,57,355,200,7,32,34
+APL Apollo Tubes,3.9,Iron & Steel ,1000-5000,Noida,Public,38,353,1700,1,22,22
+Laxmi Organic Industries,4.2,Chemicals ,501-1000,Mumbai,Public,32,351,1800,4,24,49
+SOLAR INDUSTRIES INDIA,3.8,Chemicals ,1000-5000,Nagpur,Public,29,345,2300,0,41,51
+Indian Bank,3.4,Banking ,10000-50000,Chennai,Fortune India 500,117,344,1600,0,18,36
+EID Parry (India),4.1,Food Processing ,1000-5000,Chennai,Public,236,344,1400,0,15,56
+Ge T & D India,4.3,Electrical Equipment ,201-500,Henderson,Public,67,342,1700,0,8,45
+Sheela Foam,4.1,Furniture & Furnishing ,1000-5000,New Delhi,Public,53,342,1300,2,25,35
+Brigade Group,4.2,Real Estate ,501-1000,Bangalore,Public,38,341,2200,13,29,44
+Tetra Pak,4.2,Packaging ,1000-5000,Pully,Fortune India 500,37,339,2200,30,31,71
+Mazagon Dock,4.4,Defence & Aerospace ,1000-5000,Mumbai,Fortune India 500,90,334,1200,0,18,34
+India Glycols,3.8,Chemicals ,1000-5000,Noida,Public,41,329,1800,1,19,35
+JSW Energy,4.1,Power ,1000-5000,Mumbai,Public,30,324,2200,0,24,38
+Motherson Sumi Wiring,3.9,Building Material ,50000-100000,Noida,Fortune India 500,36,321,1900,0,35,7
+KRBL,4.0,Food Processing ,1000-5000,Noida,Public,135,320,1300,1,25,30
+The Saraswat Co-operative Bank,3.4,Banking ,1000-5000,Mumbai,Public,106,317,2100,1,14,26
+Indraprastha Gas,4.0,Oil & Gas ,501-1000,New Delhi,Public,26,304,1800,0,18,31
+The Indian Hotels Company,4.3,Hospitality ,10000-50000,Mumbai,Fortune India 500,125,302,1400,8,19,42
+Indian Overseas Bank,3.5,Banking ,10000-50000,Chennai,Fortune India 500,87,299,100,0,13,25
+Gujarat Ambuja Exports,3.7,Agro Chemicals ,1000-5000,Ahmedabad,Public,33,297,1400,2,20,27
+Rail Vikas Nigam,3.2,FMCG ,501-1000,New Delhi,Fortune India 500,21,295,951,0,11,28
+LT Foods,4.0,Food Processing ,1000-5000,Gurugram,Public,34,295,1400,0,17,42
+Bank of Maharashtra,3.6,Banking ,10000-50000,Pune,Fortune India 500,89,294,1300,0,25,34
+Time Technoplast,3.8,Petrochemicals ,1000-5000,Mumbai,Public,32,292,1800,1,10,39
+Chambal Fertilisers And Chemicals,4.0,Agro Chemicals ,1000-5000,Kota,Public,39,290,1500,0,18,37
+RSWM,3.9,Fashion & Textile ,10000-50000,Noida,Public,63,284,1100,0,14,48
+Arvind Fashions,3.7,Fashion & Textile ,1000-5000,Bangalore,Public,31,282,1500,1,18,25
+Himatsingka Seide,3.7,Fashion & Textile ,5000-10000,Bangalore,Public,39,280,1500,0,23,39
+Sumitomo Chemical,4.1,Chemicals ,1000-5000,Mumbai,Fortune India 500,99,277,1500,4,17,28
+Oberoi Realty,4.0,Real Estate ,501-1000,Mumbai,Public,44,275,1800,21,17,43
+Sunflag Iron and Steel,4.0,Iron & Steel ,1000-5000,Nagpur,Fortune India 500,40,259,1200,0,21,29
+Nava Limited,3.7,Metals & Mining ,51-200,Hyderabad,Public,52,255,1200,0,16,0
+Ircon International,3.9,Engineering & Construction ,1000-5000,New Delhi,Fortune India 500,48,252,894,0,24,38
+CESC,3.8,Power ,5000-10000,Kolkata,Public,125,246,1400,0,20,0
+Paradeep Phosphates,4.1,Agro Chemicals ,501-1000,Bhubaneswar,Public,43,241,1200,0,21,25
+Oil India,4.4,Oil & Gas ,5000-10000,Noida,Fortune India 500,65,239,849,0,19,33
+UCO Bank,3.6,Banking ,10000-50000,Kolkata,Public,81,238,865,0,17,37
+Gujarat Alkalies & Chemicals,4.5,Chemicals ,1000-5000,Bharuch,Public,51,237,1300,0,20,50
+Shree Renuka Sugars,4.1,Food Processing ,1000-5000,Belagavi/Belgaum,Public,26,235,1100,1,17,0
+Bharat Dynamics,4.4,Defence & Aerospace ,1000-5000,Hyderabad,Fortune India 500,54,233,646,0,8,44
+Polyplex,4.3,Packaging ,501-1000,Noida,Public,40,222,986,0,7,37
+Himadri Speciality Chemical,4.0,Chemicals ,1000-5000,Kolkata,Public,37,219,1400,0,17,35
+Cochin Shipyard,4.3,Ports & Shipping ,1000-5000,Ernakulam,Fortune India 500,52,219,1100,0,11,28
+Mukand Limited,3.8,Iron & Steel ,1000-5000,Mumbai,Public,87,218,1100,17,10,33
+Forbes & Company,4.1,Engineering & Construction ,501-1000,Mumbai,Fortune India 500,259,217,1200,1,11,0
+Bajaj Hindusthan,4.2,Food Processing ,1000-5000,Mumbai,Public,93,216,851,0,8,30
+Paul Merchants,4.1,NBFC ,1000-5000,Chandigarh,Public,40,216,543,0,4,10
+Sun TV Network,3.7,Media & Entertainment ,1000-5000,Chennai,Public,31,215,1300,0,12,29
+Ratnamani Metals and Tubes,4.3,Iron & Steel ,1000-5000,Ahmedabad,Public,41,211,1100,12,12,36
+Adani Gas,3.3,Oil & Gas ,501-1000,Ahmedabad,Public,20,211,1500,0,25,35
+Prime Focus,3.8,Animation & VFX ,1000-5000,Mumbai,Public,27,208,766,0,1,32
+Gujarat State Fertilizers & Chemicals,4.5,Agro Chemicals ,1000-5000,Baroda,Fortune India 500,62,196,958,0,11,22
+Balrampur Chini Mills,4.1,Food Processing ,1000-5000,Kolkata,Public,49,196,815,1,16,15
+Nalco,4.1,Metals & Mining ,5000-10000,Bhubaneswar,Fortune India 500,43,193,707,0,21,21
+The New India Assurance Co.,4.4,Insurance ,10000-50000,Mumbai,Public,105,186,604,0,5,25
+NBCC,4.4,Real Estate ,1000-5000,New Delhi,Fortune India 500,64,179,762,0,17,21
+Zuari Agro Chemicals,3.8,Agro Chemicals ,501-1000,Gurugram,Public,57,178,780,0,6,24
+Tamilnad Mercantile Bank,2.9,Banking ,1000-5000,Chennai,Fortune India 500,103,177,629,8,10,13
+Dalmia Bharat Sugar & Industries,4.2,Food Processing ,1000-5000,New Delhi,Public,30,175,766,0,14,21
+NMDC Limited,4.3,Metals & Mining ,5000-10000,Hyderabad,Fortune India 500,66,172,829,0,33,16
+Filatex India,3.9,Fashion & Textile ,1000-5000,Noida,Public,34,171,1100,0,14,18
+Gallantt Ispat,4.1,Iron & Steel ,1000-5000,Gorakhpur,Public,19,168,603,0,11,7
+Indo Count Industries,4.1,Fashion & Textile ,1000-5000,Mumbai,Public,36,168,1100,1,7,17
+Karnataka Bank,3.8,Banking ,5000-10000,Mangalore,Public,100,167,100,0,33,14
+Indo Rama Synthetics (i),3.6,Fashion & Textile ,51-200,Gurugram,Public,38,167,836,0,11,15
+Jaiprakash Power Ventures,3.8,Power ,5000-10000,Noida,Public,30,166,903,0,20,8
+Gujarat Narmada Valley Fertilizers & Chemicals,4.3,Agro Chemicals ,1000-5000,Bharuch,Fortune India 500,48,163,815,0,8,19
+MMTC-PAMP,3.5,Metals & Mining ,1000-5000,New Delhi,Fortune India 500,16,163,813,2,8,27
+Black Box Corporation,3.1,IT Services & Consulting ,1000-5000,Lawrence,Fortune India 500,48,160,1300,12,18,12
+Godawari Power & Ispat,4.3,Iron & Steel ,1000-5000,Raipur,Public,25,155,728,1,7,18
+Barclays Global Service Centre,3.8,IT Services & Consulting ,201-500,Pune,Fortune India 500,17,154,700,0,80,147
+Sutlej Textiles and Industries,4.0,Fashion & Textile ,10000-50000,Mumbai,Public,19,151,866,0,5,14
+Prakash Industries,3.6,Metals & Mining ,501-1000,Raipur,Public,44,150,946,0,4,10
+KPR Mill,4.1,Fashion & Textile ,501-1000,Coimbatore,Public,40,149,889,0,7,14
+KNR Constructions,4.2,Engineering & Construction ,1000-5000,Hyderabad,Public,29,148,782,0,5,20
+Aia Engineering,4.2,Industrial Machinery ,1000-5000,Ahmedabad,Public,45,148,935,0,12,23
+NHPC,4.4,Power ,5000-10000,Faridabad,Fortune India 500,49,143,504,0,9,27
+Adani Transmission,3.8,Real Estate ,501-1000,Ahmedabad,Public,11,138,839,0,9,16
+Punjab & Sind Bank,3.5,Banking ,5000-10000,New Delhi,Fortune India 500,116,137,439,0,5,15
+Savita Oil Technologies,4.3,Chemicals ,1000-5000,Mumbai,Public,63,134,896,1,5,13
+RattanIndia Power,3.4,Power ,1000-5000,Mumbai,Public,17,132,769,0,3,17
+Sarda Energy & Minerals,4.3,Iron & Steel ,1000-5000,Raipur,Public,51,128,644,2,8,12
+Graphite India,3.7,Electrical Equipment ,1000-5000,Nashik,Public,62,128,698,0,3,15
+Shipping Corporation of India,3.8,Logistics ,1000-5000,Mumbai,Fortune India 500,63,124,600,0,4,15
+Hubergroup,4.1,Chemicals ,1000-5000,Vapi,Fortune India 500,38,124,737,9,6,14
+Prestige Estates Projects,4.3,Real Estate ,1000-5000,Bangalore,Public,38,123,727,0,5,13
+Gemini Edibles & Fats India,4.4,Food Processing ,501-1000,Hyderabad,Fortune India 500,14,112,500,0,8,22
+JBF Industries,4.1,Fashion & Textile ,201-500,Mumbai,Public,42,110,678,0,5,15
+Gokul Agro Resources,3.8,FMCG ,1000-5000,Ahmedabad,Public,10,110,757,5,11,5
+Nahar Spinning Mills,4.1,Fashion & Textile ,51-200,Ludhiana,Public,44,109,537,0,6,11
+The West Coast Paper Mills,4.1,Pulp & Paper ,201-500,Kolkata,Public,69,107,529,0,2,11
+Gujarat State Petronet,3.9,Oil & Gas ,1000-5000,Gandhinagar,Public,45,105,653,0,7,11
+Kesoram Industries,3.9,Auto Components ,501-1000,Kolkata,Public,105,99,590,0,6,15
+Tanla Platforms,3.2,Software Product ,501-1000,Hyderabad,Public,25,98,996,65,10,8
+Fertilisers and Chemicals Travancore,4.0,Agro Chemicals ,501-1000,Kochi,Fortune India 500,81,97,400,0,2,5
+IVL Dhunseri Petrochem Industries,3.9,Chemicals ,1000-5000,Kolkata,Fortune India 500,9,95,449,0,4,9
+Petronet LNG,4.6,Oil & Gas ,501-1000,New Delhi,Public,26,94,609,0,6,14
+Supreme Petrochem,4.0,Chemicals ,201-500,Mumbai,Public,31,91,639,0,5,14
+Electronics Mart India,3.6,Retail ,1000-5000,Hyderabad,Public,44,87,485,6,6,2
+Sharda Cropchem,3.9,Chemicals ,201-500,Mumbai,Public,37,85,389,0,4,23
+Srei Infrastructure Finance,4.3,Financial Services ,51-200,Kolkata,Public,39,82,401,0,1,9
+Rain Industries,3.7,Chemicals ,51-200,Hyderabad,Public,50,82,508,14,10,12
+RPSG,3.8,FMCG ,10000-50000,Kolkata,Fortune India 500,11,81,499,0,10,4
+Nitin Spinners,4.2,Fashion & Textile ,1000-5000,Bhilwara,Public,32,79,471,0,3,4
+J&K Bank,4.0,Banking ,10000-50000,Srinagar,Public,86,77,309,0,4,13
+KRIBHCO Fertilizers Limited,4.5,Agro Chemicals ,1-10,Noida,Public,29,74,280,0,4,10
+Century Textiles and Industries,4.5,Pulp & Paper ,1000-5000,Mumbai,Fortune India 500,127,72,387,0,1,10
+Gvk Power & Infrastructure,4.0,Aviation ,1000-5000,Hyderabad,Public,19,71,504,0,2,12
+Avanti Feeds,4.4,FMCG ,1000-5000,Hyderabad,Public,31,69,452,0,4,8
+National Bank Agriculture Rural Development,4.4,Financial Services ,1000-5000,Mumbai,Fortune India 500,42,67,288,0,4,8
+Maithan Alloys,3.6,Iron & Steel ,1000-5000,Kolkata,Public,29,62,368,0,5,3
+Tamilnadu Newsprint Papers,4.2,Pulp & Paper ,1000-5000,Chennai,Public,25,61,354,0,2,7
+Birla Carbon,3.9,Chemicals ,501-1000,bombay,Fortune India 500,44,60,473,0,7,6
+Kirloskar Group,4.0,Engineering & Construction and Automobile Components,10000-50000,Pune,Public,136,60,457,0,9,6
+Sterling and Wilson Renewable Energy,4.1,Power ,1000-5000,Mumbai,Fortune India 500,11,59,408,7,5,1
+Great Eastern Shipping Company,4.3,Oil & Gas ,501-1000,Mumbai,Public,76,57,320,0,11,14
+KIOCL,4.1,Iron & Steel ,1000-5000,Bangalore,Fortune India 500,48,54,250,0,4,4
+REC Kurukshetra,3.5,FMCG ,1000-5000,New Delhi,Public,55,42,389,0,5,2
+Power Finance Corporation,4.0,FMCG ,201-500,New Delhi,Fortune India 500,38,39,378,0,1,6
+PDS International,3.3,Fashion & Textile ,11-50,Kolkata,Fortune India 500,35,37,385,8,5,6
+GMDC,3.6,Metals & Mining ,1000-5000,Ahmedabad,Fortune India 500,61,30,152,0,2,4
+Gokul Refoils & Solvent,3.9,FMCG ,51-200,Ahmedabad,Public,32,28,152,0,0,5
+Religare Enterprises,3.2,Financial Services ,51-200,New Delhi,Public,38,27,292,0,1,3
+HUDCO,4.4,Real Estate ,501-1000,New Delhi,Fortune India 500,54,26,62,0,1,4
+Cosmo First,4.0,Packaging ,1000-5000,New Delhi,Fortune India 500,41,26,151,0,2,0
+The Bombay Burmah Trading Corporation,3.0,Food Processing ,201-500,Mumbai,Public,161,23,182,0,1,2
+Rane Holdings,4.4,Auto Components ,51-200,Chennai,Public,95,20,211,0,0,1
+Export-Import Bank of India,3.2,Financial Services ,1000-5000,Mumbai,Fortune India 500,40,13,179,0,0,2
+Embassy REIT,4.0,Real Estate ,10000-50000,Bangalore,Fortune India 500,8,11,137,0,1,0
+Max Financial Services,4.9,Insurance ,10000-50000,Kolkata,Public,30,10,114,0,0,1
+GMR Power and Urban Infra,4.5,Power ,500-1000,Kanpur,Fortune India 500,44,7,42,0,0,0
+Culver Max Entertainment,4.9,Media & Entertainment ,201-500,Mumbai,Fortune India 500,27,5,34,0,0,0
+GMR Airports Infrastructure,4.2,Aviation ,10000-50000,New Delhi,Fortune India 500,16,4,15,57,0,0
+Shirpur Gold Refinery,4.7,Metals & Mining ,51-200,Shirpur,Public,23,3,24,0,0,1
+Cholamandalam Financial Holdings,3.8,Financial Services ,11-50,Coimbatore,Fortune India 500,44,3,36,0,0,0
+CONCOR,5.0,Logistics ,1000-5000,New Delhi,Fortune India 500,36,2,34,0,0,0
+Bengal and Assam Company,4.0,Financial Services ,11-50,Kolkata,Fortune India 500,75,2,10,0,0,0
+Sagar Diamonds,2.3,Jewellery ,51-200,Mumbai,Fortune India 500,7,2,15,0,0,0
+Indian Railway Finance Corporation,5.0,Financial Services ,1000-5000,New Delhi,Fortune India 500,36,1,56,0,0,0
+Bajaj Holdings & Investment,4.5,Financial Services ,11-50,Pune,Fortune India 500,77,1,26,0,0,0
+Kama Holdings,5.0,Financial Services ,201-500,Mumbai,Fortune India 500,22,0,5,0,0,0
